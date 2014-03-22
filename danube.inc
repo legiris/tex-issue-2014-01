@@ -93,6 +93,8 @@
 % tucne
 \def\fntbf#1{{\bfseries#1}}
 
+\newfont{\azb}{wncyr10 at 12pt}
+
 
 % TABULKY
 % zacatek

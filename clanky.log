@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdfcslatex 2014.3.11)  21 MAR 2014 21:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdfcslatex 2014.3.11)  22 MAR 2014 03:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -261,7 +261,7 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./bartha.tex <versita.jpg, id=1, 437.635pt x 164.615pt>
+(./havlik.tex <versita.jpg, id=1, 437.635pt x 164.615pt>
 File: versita.jpg Graphic file (type jpg)
  <use versita.jpg>
 Package pdftex.def Info: versita.jpg used on input line 4.
@@ -273,144 +273,113 @@ File: eaco.jpg Graphic file (type jpg)
 Package pdftex.def Info: eaco.jpg used on input line 4.
 (pdftex.def)             Requested size: 864.22662pt x 351.56256pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
+(Font)              <6> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
+(Font)              <5> on input line 11.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-[245{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
- <./versita.jpg> <./eaco.jpg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
- [246] [247]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(Font)              <7> on input line 22.
+[245
 
- [248]
-[249]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 72.
- [250]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./versita.jpg> 
+<./eaco.jpg>] [246]
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[][][]\IL2/ptm/m/n/8 See http://www.euractiv.com/europes-east/top-envoy-russia-
+offer-ukraine-e-news-530890 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[][][]\IL2/ptm/m/n/8 See re-port from the me-e-ting of the two prime mi-nis-ter
+s in Ka-luga on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\IL2/ptm/m/n/8 15 Oc-to-ber, 2013 (www.gazeta.ru/business/2013/10/15). For La-v
+-rov?s spe-ech, see
+ []
+
+[247] [248] [249]
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+[250]
+Overfull \hbox (87.2896pt too wide) in paragraph at lines 48--50
+\IL2/ptm/m/n/10 see EU Ukra-ine As-so-ci-ation Agre-e-ment En-g-lish - 2012[]11
+[]19[]EU[]Ukraine[]Association[]Agreement[]English.pdf
+ []
+
+
+Underfull \vbox (badness 1314) has occurred while \output is active []
 
  [251]
-<bartha-fig01.jpg, id=31, 796.9775pt x 899.36pt>
-File: bartha-fig01.jpg Graphic file (type jpg)
- <use bartha-fig01.jpg>
-Package pdftex.def Info: bartha-fig01.jpg used on input line 108.
-(pdftex.def)             Requested size: 796.97554pt x 899.3578pt.
-
-[252 <./bartha-fig01.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 117.
-
-
-(c:/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 117.
- [253
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
-
- []
-
-[254]
-Underfull \hbox (badness 10000) in paragraph at lines 151--165
-
+[252] [253]
+Overfull \hbox (145.29048pt too wide) in paragraph at lines 417--489
+\IL2/ptm/m/n/10 both im-por-tant for Ukra-ine, Eas-tern Part-ner-ship Com-mu-ni
+ty, 23 May. http://www.easternpartnership.org/community/debate/eu-
  []
 
 
-Overfull \hbox (0.20966pt too wide) in paragraph at lines 175--195
-[] 
- []
+Underfull \vbox (badness 1259) has occurred while \output is active []
 
-[255
-
-] [256
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 215--224
-
- []
-
-
-Overfull \hbox (0.18726pt too wide) in paragraph at lines 230--231
-[]\IL2/ptm/m/n/10 Theoretically, all 8 clus-ters could re-pre-sent fe-asi-ble c
-om-bi-nati-ons, but most of the 34OECD
- []
-
-[257
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 238--247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
-
- []
-
-[258] [259] [260
-
-]
+ [254]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [261
+ [255]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+ [256]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
+ [257]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [258]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+ [259]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
+ [260]
+[261] [262]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [263]
+[264]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--324
+ [265]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
-
-[262] [263
-
-]) [264
-
-] (./clanky.aux) ) 
+ [266])
+[267] (./clanky.aux) ) 
 Here is how much of TeX's memory you used:
- 2573 strings out of 494921
- 35492 string characters out of 6180480
- 114442 words of memory out of 5000000
- 5801 multiletter control sequences out of 15000+600000
- 37983 words of font info for 68 fonts, out of 8000000 for 9000
+ 2529 strings out of 494921
+ 34881 string characters out of 6180480
+ 133734 words of memory out of 5000000
+ 5769 multiletter control sequences out of 15000+600000
+ 32968 words of font info for 58 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 38i,8n,29p,1451b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2013/texmf-dist/fonts/enc/dvips/cs/xl2.enc}<c:/te
-xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2013/texmf-d
-ist/fonts/type1/public/cs/csr10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/pub
-lic/cs/csti10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-<c:/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2013/t
-exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on clanky.pdf (20 pages, 579479 bytes).
+ 38i,7n,29p,4441b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2013/texmf-dist/fonts/enc/dvips/cs/xl2.enc}<c
+:/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2013/tex
+mf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2013/texmf-dist/fonts/type
+1/urw/times/utmri8a.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
+/cyrillic/wncyr10.pfb>
+Output written on clanky.pdf (23 pages, 252086 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
