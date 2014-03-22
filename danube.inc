@@ -144,6 +144,8 @@
 % odrazka -- nazev, rozmer
 \def\sq#1#2{\resizebox{#2}{!}{\includegraphics{#1}} }
 
+% BOXY
+\long\def\smallbox#1{\begin{center}\fbox{\parbox{.95\textwidth}{\leftskip 2mm\rightskip 2mm\small\vspace{1mm} #1\vspace{1mm}}}\end{center}}
 
 % POZNAMKY
 \def\pozn#1{\footnote{#1}}
