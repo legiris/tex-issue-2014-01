@@ -112,6 +112,13 @@
 
 % multicolumn -- pocet sl, zarovnani, text
 \def\mc#1#2#3{\multicolumn{#1}{#2}{#3}}
+%	r - right | r - right vertical line, e - empty, b - both
+\def\rr#1{\mc{1}{r|}{#1}}
+\def\re#1{\mc{1}{r}{#1}}
+
+\def\ce#1{\mc{1}{c}{#1}}
+\def\cb#1{\mc{1}{|c|}{#1}}
+\def\crr#1{\mc{1}{c|}{#1}}
 
 % hphantom
 \def\0{\hphantom{0}}
