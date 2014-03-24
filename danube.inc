@@ -93,16 +93,18 @@
 % tucne
 \def\fntbf#1{{\bfseries#1}}
 
-\newfont{\azb}{wncyr10 at 12pt}
+\newfont{\azb}{wncyr10 at 10pt}
 
 
 % TABULKY
 % zacatek
 % @param #1 sloupce
 \def\zactab#1{\noindent\begin{tabular}{#1}}
+\def\zacltab#1{\noindent\begin{longtable}{#1}}
 
 % konec
 \def\kontab{\end{tabular}\renewcommand{\baselinestretch}{1}\renewcommand{\arraystretch}{1}\tabcolsep 6pt\normalfont\normalsize}
+\def\konltab{\end{longtable}\renewcommand{\baselinestretch}{1}\renewcommand{\arraystretch}{1}\tabcolsep 6pt\normalfont\normalsize}
 
 % popis
 \def\popis#1{\medskip\noindent{\small\bfseries #1}\par\nopagebreak}
@@ -118,6 +120,7 @@
 
 \def\ce#1{\mc{1}{c}{#1}}
 \def\cb#1{\mc{1}{|c|}{#1}}
+\def\cl#1{\mc{1}{|c}{#1}}
 \def\crr#1{\mc{1}{c|}{#1}}
 
 % hphantom
