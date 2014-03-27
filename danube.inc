@@ -93,16 +93,18 @@
 % tucne
 \def\fntbf#1{{\bfseries#1}}
 
-\newfont{\azb}{wncyr10 at 12pt}
+\newfont{\azb}{wncyr10 at 10pt}
 
 
 % TABULKY
 % zacatek
 % @param #1 sloupce
 \def\zactab#1{\noindent\begin{tabular}{#1}}
+\def\zacltab#1{\noindent\begin{longtable}{#1}}
 
 % konec
 \def\kontab{\end{tabular}\renewcommand{\baselinestretch}{1}\renewcommand{\arraystretch}{1}\tabcolsep 6pt\normalfont\normalsize}
+\def\konltab{\end{longtable}\renewcommand{\baselinestretch}{1}\renewcommand{\arraystretch}{1}\tabcolsep 6pt\normalfont\normalsize}
 
 % popis
 \def\popis#1{\medskip\noindent{\small\bfseries #1}\par\nopagebreak}
@@ -112,6 +114,14 @@
 
 % multicolumn -- pocet sl, zarovnani, text
 \def\mc#1#2#3{\multicolumn{#1}{#2}{#3}}
+%	r - right | r - right vertical line, e - empty, b - both
+\def\rr#1{\mc{1}{r|}{#1}}
+\def\re#1{\mc{1}{r}{#1}}
+
+\def\ce#1{\mc{1}{c}{#1}}
+\def\cb#1{\mc{1}{|c|}{#1}}
+\def\cl#1{\mc{1}{|c}{#1}}
+\def\crr#1{\mc{1}{c|}{#1}}
 
 % hphantom
 \def\0{\hphantom{0}}
@@ -144,6 +154,8 @@
 % odrazka -- nazev, rozmer
 \def\sq#1#2{\resizebox{#2}{!}{\includegraphics{#1}} }
 
+% BOXY
+\long\def\smallbox#1{\begin{center}\fbox{\parbox{.95\textwidth}{\leftskip 2mm\rightskip 2mm\small\vspace{1mm} #1\vspace{1mm}}}\end{center}}
 
 % POZNAMKY
 \def\pozn#1{\footnote{#1}}
